@@ -1,0 +1,48 @@
+#header-nav
+{
+	background-color: rgb(0, 208, 215);
+	border:0;
+	border-radius: 0;
+	
+}
+.navbar-brand 
+{
+	text-align: left;
+	color: black;
+}
+.container-fluid
+{
+	height: inherit;
+}
+.navbar-brand
+{
+	height: inherit;
+	padding: 15px;	
+}
+p
+{
+	background-color:rgb(220,220,220);
+	margin: inherit;
+}
+#nav-list
+{
+	background-color: rgb(0, 208, 215);
+	text-align: center; 
+}
+#nav-list li:hover
+{
+	background:#e7e7e7;
+}
+.navbar-header button.navbar-toggle
+{
+	clear: both;
+}
+h2
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+li
+{
+	border: 1px solid black;
+}
